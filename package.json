@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "remoterepo",
   "version": "1.0.0",
   "description": "this is  a demo repo",
@@ -16,4 +17,11 @@
     "url": "https://github.com/chawdhry01/remoterepo/issues"
   },
   "homepage": "https://github.com/chawdhry01/remoterepo#readme"
+=======
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+>>>>>>> 22db6a9cb82553e3a55635544b34b9a776b4f532
 }
